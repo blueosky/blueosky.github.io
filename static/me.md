@@ -1,7 +1,8 @@
 # blueosky
 
 <div style="width: 100%;">
-	<h4 style="color:white; font-size:19px; text-align:right; padding:5px;">—————知其然，知其所以然。</h4>
+	<h4 style="color:white; font-size:22px; text-align:right; padding:5px;">—————知其然，知其所以然。</h4>
+
 
 
 ## 我的标签：
