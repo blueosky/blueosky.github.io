@@ -8,22 +8,22 @@
       "name": "一点记录",
       "submenus": [
         {
-          "id": "0201",
           "name": "Android V1签名手动验证",
           "src": "/static/Android V1签名手动验证.md"
         },
         {
-          "id": "0202",
           "name": "Activity启动过程及其跨进程通信",
           "src": "/static/Activity启动过程及其跨进程通信.md"
         },
         {
-          "id": "0203",
+          "name": "Activity创建&子线程不能更新UI？",
+          "src": "/static/Activity创建&子线程不能更新UI？.md"
+        },
+        {
           "name": "App启动流程",
           "src": "/static/App启动流程.md"
         },
         {
-          "id": "0204",
           "name": "RSA加密解密步骤验证",
           "src": "/static/RSA加密解密步骤验证.md"
         }
