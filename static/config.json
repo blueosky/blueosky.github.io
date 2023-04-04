@@ -24,6 +24,10 @@
           "src": "/static/App启动流程.md"
         },
         {
+          "name": "View事件分发",
+          "src": "/static/View事件分发.md"
+        },
+        {
           "name": "RSA加密解密步骤验证",
           "src": "/static/RSA加密解密步骤验证.md"
         }
