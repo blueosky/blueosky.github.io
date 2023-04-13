@@ -43,6 +43,10 @@
     },
     {
       "id": "03",
+      "name": "参考链接",
+      "src": "/static/参考链接.md"
+    },
+    {
       "name": "关于",
       "src": "/static/me.md"
     }
