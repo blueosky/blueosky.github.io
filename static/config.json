@@ -24,6 +24,10 @@
           "src": "/static/App启动流程.md"
         },
         {
+          "name": "View的Measure过程",
+          "src": "/static/View的Measure过程.md"
+        },
+        {
           "name": "View事件分发",
           "src": "/static/View事件分发.md"
         },
